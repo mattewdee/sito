@@ -1,0 +1,2 @@
+ErrorDocument 403 /__tmp/topweb.shtml
+AddHandler php5-script .php
